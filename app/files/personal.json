@@ -1,0 +1,10 @@
+[
+    {
+        "fecha": "28-08-2022",
+        "nombre": "Foo",
+        "apellido": "Var",
+        "dni": 11222333,
+        "motivo": "ejemplo",
+        "id": 1
+    }
+]
